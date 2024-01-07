@@ -1,0 +1,46 @@
+{
+  "packages": {
+    "ripgrep":     "",
+    "git":         "",
+    "lazygit":     "",
+    "ffmpeg":      "latest",
+    "fd":          "latest",
+    "lazydocker":  "latest",
+    "jq":          "latest",
+    "skhd":        "latest",
+    "bat":         "latest",
+    "imagemagick": "latest",
+    "exa":         "latest",
+    "fzf":         "latest",
+    "gh":          "latest",
+    "delta":       "latest",
+    "git-extras":  "latest",
+    "git-lfs":     "latest",
+    "httpie":      "latest",
+    "mcfly":       "latest",
+    "neovim":      "latest",
+    "nnn":         "latest",
+    "telnet": {
+      "version":   "latest",
+      "platforms": ["x86_64-darwin"]
+    },
+    "wget":   "latest",
+    "curl":   "latest",
+    "tmux":   "latest",
+    "zoxide": "latest",
+    "nodejs": "latest",
+    "yadm":   "latest",
+    "python": "3.11",
+    "poetry": "latest"
+  },
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
+      ]
+    }
+  }
+}
