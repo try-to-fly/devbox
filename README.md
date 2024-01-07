@@ -6,4 +6,4 @@
 3. 安装devbox: `curl -fsSL https://get.jetpack.io/devbox | bash`
 
 ## 安装
-1. 安装：`devbox global pull git@github.com:try-to-fly/devbox.git`
+1. 安装：`devbox global pull https://github.com/try-to-fly/devbox.git`
