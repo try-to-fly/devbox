@@ -7,7 +7,6 @@
     "fd":          "latest",
     "lazydocker":  "latest",
     "jq":          "latest",
-    "skhd":        "latest",
     "bat":         "latest",
     "imagemagick": "latest",
     "exa":         "latest",

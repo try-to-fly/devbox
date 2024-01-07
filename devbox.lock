@@ -415,20 +415,6 @@
       "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#ripgrep",
       "source": "nixpkg"
     },
-    "skhd@latest": {
-      "last_modified": "2023-12-13T22:54:10Z",
-      "resolved": "github:NixOS/nixpkgs/fd04bea4cbf76f86f244b9e2549fca066db8ddff#skhd",
-      "source": "devbox-search",
-      "version": "0.3.9",
-      "systems": {
-        "aarch64-darwin": {
-          "store_path": "/nix/store/8f2dp8q0ywrbqli99c416rb9ilkbv1ya-skhd-0.3.9"
-        },
-        "x86_64-darwin": {
-          "store_path": "/nix/store/kwmxsxyqyb3hxvgzs85vfziki411g4xy-skhd-0.3.9"
-        }
-      }
-    },
     "telnet@latest": {
       "last_modified": "2022-02-15T04:21:50Z",
       "resolved": "github:NixOS/nixpkgs/3a641defd170a4ef25ce8c7c64cb13f91f867fca#telnet",
